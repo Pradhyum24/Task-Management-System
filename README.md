@@ -21,12 +21,4 @@ A simple web-based **Task Management System** built with Flask (backend) and HTM
 
 ---
 
-## Setup and Installation
 
-### Prerequisites
-- Python 3.7 or higher installed on your machine.
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Pradhyum24/Task-Management-System.git
